@@ -1,0 +1,26 @@
+.nav {
+  background-color: black;
+  height: 10vh;
+  padding: 1% 1% 5% 5%;
+  color: white;
+  list-style: none;
+  justify-content: end;
+  position: fixed;
+  /* top: 0; */
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+.nav-item {
+  color: white;
+  justify-content: end;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav h1 {
+  justify-content: start;
+}
